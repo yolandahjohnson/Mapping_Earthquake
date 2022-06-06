@@ -14,3 +14,6 @@ The purpose of this project is to use the Leaflet.js Application Programming Int
 
 ### Additonal Map Style
 ![Additional Map](https://user-images.githubusercontent.com/100816778/172079743-65de7848-7ae4-4245-a69f-7bc55a7bb7eb.png)
+
+### Satellite View w/Layers and Legend
+![Satellite View ](https://user-images.githubusercontent.com/100816778/172080207-0a31f9b7-dc90-4c1d-a832-7acac2590f50.png)
